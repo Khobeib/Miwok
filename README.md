@@ -1,2 +1,0 @@
-# Miwok
-Miwok language app
